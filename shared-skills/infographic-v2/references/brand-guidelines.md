@@ -267,7 +267,7 @@ often faster than they drive. Design accordingly.
 
 Every infographic includes a footer at the very bottom of the design.
 
-**Content:** "Jaspreet Singh | Founder @ JasAI"
+**Content:** "Jaspreet Singh | Founder @ VividAutomate"
 
 **Styling:** Small size, clean sans-serif font, left-aligned or centered. The footer
 should be present but unobtrusive. It should never compete with the main content for

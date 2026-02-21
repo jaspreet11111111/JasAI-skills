@@ -852,7 +852,7 @@ Content per section: [List exact text for each section]
 
 [TECHNICAL SPECS]
 - Output as a 4:5 portrait aspect ratio image at approximately 2048 pixels wide
-- Footer text: "Jaspreet Singh | Founder @ JasAI"
+- Footer text: "Jaspreet Singh | Founder @ VividAutomate"
 ```
 
 ### What Makes Prompts Fail
@@ -1018,7 +1018,7 @@ When you're in the flow of designing, here are the essentials:
 - Always include negative vectors (what NOT to do)
 
 ### Footer
-Always: "Jaspreet Singh | Founder @ JasAI"
+Always: "Jaspreet Singh | Founder @ VividAutomate"
 
 ---
 

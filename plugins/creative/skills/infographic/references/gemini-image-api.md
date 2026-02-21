@@ -358,7 +358,7 @@ Dusty warm tones — cream, muted ochre, soft sage, warm gray.
 NO black backgrounds. Everything warm and analog.
 Not cartoonish, not hyperreal, not corporate.
 
-Footer: "Jaspreet Singh | Founder @ JasAI"
+Footer: "Jaspreet Singh | Founder @ VividAutomate"
 Output at approximately 2048 pixels wide.
 ```
 
