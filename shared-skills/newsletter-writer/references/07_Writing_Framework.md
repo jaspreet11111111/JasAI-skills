@@ -2,7 +2,7 @@
 
 ## Voice DNA Summary
 
-Ben's newsletter voice is "the friend who failed first and figured it out" - combining vulnerability about past mistakes with hard-won authority. His writing feels like getting advice from someone at the gym at 6am who's already been grinding for hours but stops to help you with genuine enthusiasm.
+Jaspreet's newsletter voice is "the friend who failed first and figured it out" - combining vulnerability about past mistakes with hard-won authority. His writing feels like getting advice from someone at the gym at 6am who's already been grinding for hours but stops to help you with genuine enthusiasm.
 
 ## The Ben Progression Pattern
 
@@ -143,7 +143,7 @@ Confused: "I still don't know where to start"
 
 ## The Essential Ben Voice
 
-Ben's newsletter voice is someone who ate shit, learned from it, and now genuinely wants to help others skip that painful part. Every piece should feel like advice from a friend who's a few steps ahead on the same path - not a guru on a mountain.
+Jaspreet's newsletter voice is someone who ate shit, learned from it, and now genuinely wants to help others skip that painful part. Every piece should feel like advice from a friend who's a few steps ahead on the same path - not a guru on a mountain.
 
 The reader should finish thinking: "He gets it. He's been there. I can do this. Let me start with that one thing he suggested today."
 

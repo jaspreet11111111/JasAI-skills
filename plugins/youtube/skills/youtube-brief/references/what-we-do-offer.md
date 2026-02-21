@@ -1,78 +1,54 @@
 What We Do - Full Offer Overview
 Mission Statement
-We teach professionals, consultants, SMB Owners & Developers how to build, implement and sell AI automation services through proven systems that generate real revenue.
+We help professionals, SaaS founders, coaches, and agency owners think with AI and automate their businesses — through real daily builds, proven frameworks, and done-for-you automation systems.
 Key Differentiator
-Unlike generic AI courses or AI hype or theory-heavy content, we provide actionable, battle-tested systems from real client work.
-1. Complete Implementation Training
-3 Platform Mastery Courses
-n8n - from first automation to production-ready systems
-Make.com - complete course
-Relevance AI - full platform mastery
-Real Build Walkthroughs
-Actual workflow automations you can replicate
-AI agent cases with real implementation
-Technical + Business Training
-How to build
-How to scope and price
-How to deliver
-How to build an AI Agency, AI SaaS, or AI Service Business
-2. Done-With-You Resources
-100+ Ready-to-Use Templates
-Sales templates
-Marketing automations
-Operations systems
-All battle-tested in real client work
-Integration Guides
-WhatsApp
-Slack
-Meta
-Essential tools - step-by-step connections
-3. Direct Access & Support
-Weekly Q&As with Ben
-Strategy sessions
-Positioning guidance
-Business advice from someone running 6-figure AI services
-FREE 1-on-1 Tech Calls
-25-minute sessions with CTO Naveed
-Debugging help
-Architecture guidance
-Implementation support
-Active Builder Community
-Share wins
-Get feedback
-Find partners
-Learn from peers on the same journey
-4. The Business Playbook
-Complete AI Agency & Business Setup
-NDAs
-Proposals
-Pitch decks
-Pricing models
-PRD, SOW, Proposal templates
-Go-to-Market Strategy
-Find clients fast with proven strategies
-LinkedIn playbooks
-Cold calling frameworks
-Cold email systems
-YouTube strategy
-Service positioning
-Niche selection
-Sales and deal closing
-Scaling Framework
-From first client to $10K/month recurring revenue
+Unlike generic AI courses or theory-heavy content, everything we teach comes from actual client work and daily builds. Every video is a real build, every template is battle-tested, every framework is one we use ourselves.
+1. VividAutomate — AI Automation Agency
+Custom AI Voice Agents
+Outreach and lead qualification bots
+Appointment booking systems
+Follow-up automation that runs 24/7
+n8n + GoHighLevel Workflow Automation
+End-to-end lead qualification pipelines
+CRM integration and automated follow-ups
+Multi-channel outreach systems (email, SMS, voice)
+Who We Serve
+SaaS founders who need automated lead qualification
+Coaches who want to scale without more manual work
+Marketing agencies who need AI-powered client delivery
+Clients across 5 countries: India, Canada, US, UK, Bangladesh
+From solopreneurs to enterprises (1000+ employees)
+2. 10x With AI / QuestingAI — Education & Community
+Skool Community ($25/month founding, $45 regular)
+90-day curriculum: Claude Code + BMAD fundamentals → real builds → client-ready deliverables
+DOE Framework (Directive, Orchestration, Execution) — original thinking framework for AI work
+Daily YouTube content — each video is a real build, not theory
+650+ community members and growing
+What Members Get
+BMAD + Claude Code mastery curriculum
+Real build walkthroughs — watch systems being built from scratch
+Templates and automation workflows you can replicate
+Direct access to Jaspreet for strategy and technical guidance
+Active builder community — share wins, get feedback, find accountability
+3. Daily YouTube Content Engine
+Channel: QuestingSingh (youtube.com/c/QuestingSingh)
+Daily AI build videos — real builds, not slideshows
+Founder journey storytelling that went viral (50K+ views)
+Content directly converts viewers into paying clients
+Also active on: LinkedIn (linkedin.com/in/jaspreetsingh2727), Instagram, Facebook (8K+ group)
 Our Unique Approach
-We're not teaching theory - we're sharing the exact systems we use in our own AI businesses. Every template, every course module, every strategy comes from real client work that generates revenue today.
+We're not teaching theory — we're building in public every single day. Every template, every framework, every strategy comes from real client work and daily practice with BMAD + Claude Code.
 The Customer Journey
-Free Newsletter (insights) -> Free Resources (templates) -> $97 Community (full system) -> Your First AI Client -> $10K/Month Business
+YouTube content (real builds) -> Free resources (templates) -> $25-45/mo Skool community (full system) -> VividAutomate agency services
 This is NOT
 Generic AI hype or ChatGPT tips
 Expensive enterprise consulting
 Theory without implementation
-Another course you'll never finish
+Polished guru content with no substance
 This IS
-A complete ecosystem for building your AI business
-Proven systems from practitioners doing the work
+A builder showing his work every day
+Proven frameworks from a practitioner doing the work
 Technical skills + business strategy in one place
 A community of builders helping each other succeed
 The Bottom Line
-For $97/month (less than one hour of mediocre consulting), you get everything you need to build, implement, sell, and scale AI automation services - from your first workflow to your first $10K month.
+For $25-45/month, you get a 90-day curriculum, daily build videos, BMAD + Claude Code mastery, the DOE Framework, templates, and a community of builders — all from someone who uses these exact systems to run a 5-country AI agency.

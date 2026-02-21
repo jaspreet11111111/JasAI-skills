@@ -8,7 +8,7 @@ This document teaches you how to think about design for JasAI infographics. Read
 
 ### Who Is JasAI?
 
-JasAI is a personal brand built around helping people automate their work and businesses. The founder, Ben Van Sprundel, creates content about AI, automation, and working smarter. The visual identity needs to feel like it comes from a real person — not a faceless corporation, not a startup trying too hard to be cool, but a knowledgeable professional who genuinely wants to help.
+JasAI is a personal brand built around helping people automate their work and businesses. The founder, Jaspreet Singh, creates content about AI, automation, and working smarter. The visual identity needs to feel like it comes from a real person — not a faceless corporation, not a startup trying too hard to be cool, but a knowledgeable professional who genuinely wants to help.
 
 Think about the difference between receiving advice from a friend who happens to be an expert versus reading a corporate whitepaper. Both might contain the same information, but one feels warm and trustworthy while the other feels distant and cold. JasAI's visual identity should always feel like the former.
 
@@ -852,7 +852,7 @@ Content per section: [List exact text for each section]
 
 [TECHNICAL SPECS]
 - Output as a 4:5 portrait aspect ratio image at approximately 2048 pixels wide
-- Footer text: "Ben Van Sprundel | Founder @ JasAI"
+- Footer text: "Jaspreet Singh | Founder @ JasAI"
 ```
 
 ### What Makes Prompts Fail
@@ -1018,7 +1018,7 @@ When you're in the flow of designing, here are the essentials:
 - Always include negative vectors (what NOT to do)
 
 ### Footer
-Always: "Ben Van Sprundel | Founder @ JasAI"
+Always: "Jaspreet Singh | Founder @ JasAI"
 
 ---
 

@@ -1,57 +1,61 @@
 LinkedIn Post Examples - Reference Library
-This document contains real LinkedIn post examples from Ben Van Sprundel. Use these as references for tone, structure, and the signature Ben voice when creating LinkedIn content.
+This document contains real LinkedIn post examples from Jaspreet Singh. Use these as references for tone, structure, and the signature Jaspreet voice when creating LinkedIn content.
 ─────────────────────────────────────────
 Example 1: Domain Expertise + AI = Unfair Advantage
 Type: Insight / Mindset Shift
 
-Most domain experts don't realize they're sitting on a goldmine.
+Most professionals don't realize they're sitting on a goldmine.
 
 They think AI is for developers and tech people.
 
-But here's one of the biggest takeaways after 2 years in AI:
+But here's one of the biggest takeaways after building AI systems for clients across 5 countries:
 
 Domain expertise + AI = Unfair advantage.
 
-I worked with brilliant developers who could write beautiful code.
+I've worked with brilliant developers who could write beautiful code.
 
 But they couldn't solve real business problems.
 
 They didn't understand:
 ↳ The real problem they were solving
-↳ What good copy looks like
-↳ How to prompt AI models properly
+↳ What good client communication looks like
+↳ How to prompt AI models with business context
 ↳ The business logic behind systems
 
-Marketing, Sales, CS and other non-technical domain experts have the context that 20-year developers are missing.
+Marketing, Sales, and Operations professionals have the context that pure developers are missing.
 
 They understand the "why" and "how" of business processes.
 
 They tend to have an edge in natural language prompting to guide AI models.
 
-And with AI democratizing coding, we're at a historic moment.
+And with BMAD + Claude Code democratizing the build process, we're at a historic moment.
 
-Domain experts can now learn to solve their day to day problems in days, not years.
+Domain experts can now learn to build real AI systems in weeks, not years.
 
 Naval Ravikant said it best:
 
 "Learn to build. Learn to sell. If you can do both, you will be unstoppable."
 
-2 years ago, I didn't know what a JSON was.
+I was a software engineer at Jio. I knew how to code.
 
-People now consider me an "AI expert."
+But it was only when I combined coding with business thinking that things clicked.
 
-Without writing a single line of code.
+That's when I left corporate and started VividAutomate.
+
+People now ask me how I serve clients across 5 countries.
+
+The answer: frameworks + domain expertise + AI.
 
 But I still see most people falling in the same traps:
-↳ "n8n & claude code are too technical for me"
+↳ "Claude Code is too technical for me"
 ↳ "I don't have time"
 ↳ "These skills will become irrelevant"
 
-Meanwhile, non-technical people are taking the leap.
+Meanwhile, non-technical professionals are taking the leap.
 
-Learning n8n & claude-code in weeks.
+Learning BMAD + Claude Code in weeks.
 
-And building 6-figure businesses in months.
+And building real AI systems for real clients.
 
 Here's the truth:
 
@@ -59,7 +63,7 @@ There are no "AI experts" yet.
 
 The experts are being created NOW.
 
-It's the people who prioritize experimenting.
+It's the people who prioritize building over consuming.
 
 99% will keep convincing themselves this isn't for them.
 
@@ -69,7 +73,7 @@ Be the 1%.
 
 Want to learn the AI skills that matter fast?
 
-Join my AI Accelerator: [link]
+Join 10x With AI: [link]
 ─────────────────────────────────────────
 Example 2: Brand-Aligned Infographics with AI
 Type: Tutorial / How-To
@@ -101,133 +105,111 @@ Here's how I use it to create infographics for LinkedIn posts and newsletters.
 ➝ Create a few versions (or use my tool to generate 6 at once)
 ➝ Pick the best one for your content
 
-Want my system prompt + infographic tool? 🎁
+Want my system prompt + infographic tool?
 1. Connect With Me
 2. Like this post
 3. Comment "Infographic" and I'll send it to you.
 
 •••
 
-Want 50+ more of our AI Agency templates, courses, coaching & 1:1 tech help?
+Want daily AI builds, BMAD + Claude Code mastery, and a builder community?
 
-Join my AI Accelerator ⚙️
+Join 10x With AI on Skool
 ─────────────────────────────────────────
-Example 3: The Prioritization Framework
-Type: Personal / Life Advice
+Example 3: Why I Left Jio
+Type: Personal / Founder Journey
 
-2 years ago, I changed the way I set goals.
+I left a stable job at India's largest tech conglomerate at 25.
 
-And it changed my life.
+Everyone thought I was crazy.
 
-Instead of a list of goals, I defined what parts in life I was going to prioritize.
+Here's what actually happened.
 
-But more importantly, I defined what I was NOT going to prioritize.
+I was a software developer at Jio Platforms for 2 years. Good salary. Stable career path. MNIT Jaipur degree backing it up.
 
-Why?
+But every day felt the same.
 
-Because most ambitious people fail on their goals, not because they are not motivated.
+I'd watch AI change industries while I was building features for someone else's vision.
 
-But because they simply set too many.
+So I made a decision:
 
-You can't get a business of the ground, have your best social life, travel the world AND be in the best shape of your life.
+I'd rather build something of my own and fail than succeed at someone else's dream.
 
-So every year, I look at this list below and I rate myself from 1-10 on each of the points for the past year.
+October 2025 — I handed in my resignation.
 
-Then I pick 2 out of these 9 points in my life that I want to prioritize more over the next year.
+No clients. No savings cushion. No backup plan.
 
-Health:
-➝ Mind
-➝ Soul
-➝ Body
+Just a belief that if I combined my engineering skills with AI and went all-in, something would work.
 
-Social:
-➝ Romance
-➝ Family
-➝ Friends
+Month 1: Launched VividAutomate. First client from a YouTube video.
+Month 2: Clients in India and Canada.
+Month 3: 5 countries. 650+ community members. 8K+ Facebook group.
 
-Work:
-➝ Mission
-➝ Money
-➝ Growth
+Was it smooth? No.
 
-Why does it work?
+Was it scary? Every single day.
 
-In the era of social media, FOMO is real. You will always be reminded of what you don't have. What you are NOT doing.
+But here's what I learned:
 
-And prioritizing one area will mean another might suffer a bit. That isn't failure, that is a trade-off.
+Clarity comes from doing, not thinking about doing.
 
-So when FOMO thoughts creep in, reminding yourself of the priorities you set instantly resolves your doubts.
+I could have spent another year "preparing" at Jio.
 
-2 years ago, I prioritized my mission and body. I wanted to quit my job, get my business of the ground, and get in good shape.
+Instead, I learned more in 3 months of building than in 2 years of corporate.
 
-So when doubts started creeping in on a Sunday behind my desk while my friends were out, I knew I was doing the right thing.
+The same principle applies to anyone thinking about starting something:
 
-And I succeeded in both.
+Via negativa — strip away the noise. Find the signal.
 
-This year I prioritized money and family.
+What's the ONE thing you'd build if you had no fear?
 
-Did I travel the world, spent hours building friendships or find perfect mental balance? No.
-
-But I earned more than I ever have and spent more time with family than in the last decade.
-
-The same principle applies to building a business. You have to pick your season.
-
-If you are just starting out, your season is lead generation.
-
-You have to be fine not knowing every AI Tool, being underpaid every once in a while or your product not being perfect.
-
-Those are the trades you make to win.
-
-"Most people overestimate what they can do in a year, but underestimate what they can do in 5".
-
-Instead of trying to win every category at once, this system helps me build a life where different areas get their turn, one year at a time.
-
-Pick your priorities. Be okay with the trade-offs.
-
-What are yours for 2026? 🎯
+Now go build it.
 ─────────────────────────────────────────
-Example 4: The 30-Day Rule
-Type: AI Agency Advice / Actionable
+Example 4: The Framework Approach
+Type: AI / Actionable
 
-If you want to build an AI Agency in 2026:
+If you want to build AI systems in 2026:
 
-Don't spend more than 30 days learning AI Automation.
+Don't spend more than 30 days learning tools.
 
-Here's what I've seen across 1,000+ community members:
+Here's what I've seen across 650+ community members:
 
 The ones who spend months learning? They're still learning.
 
-The ones who gave themselves 30 days and went out the market? They have clients.
+The ones who gave themselves 30 days and went to the market? They have clients.
 
 I learned this the hard way.
 
-My first startup failed because I spent too much time building a "perfect product" based on assumptions.
+At Jio, I was surrounded by people who knew everything about the tech but never shipped anything meaningful.
 
-No customers. No feedback. Just us in a room convinced we knew what people wanted.
+When I started VividAutomate, I did the opposite.
 
-Well, we didn't.
-
-When I started my AI business, I did the opposite.
-
-I gave myself a few weeks to learn n8n and Make.com.
+I learned BMAD + Claude Code in a few weeks.
 
 Then I started a YouTube channel before I even knew what I was going to sell.
 
-My second video got 300 views, which landed my first real client.
+My early videos landed my first real client.
 
 The learning didn't stop. It happened while I was building.
 
-Here's my rule now:
+Here's my framework now:
 
-30 days to learn the basics ➝ Building ➝ Testing.
+30 days to learn BMAD + Claude Code ➝ Build one real thing ➝ Ship it.
 
-Then you go out and find your first customers.
+Then go find your first client.
 
-You'll learn more applying and landing your first paid project than in 6 months of infinite tutorials.
+You'll learn more building one real system than in 6 months of infinite tutorials.
+
+The DOE Framework gives you structure from day one:
+↳ Directive — define what you're building and why
+↳ Orchestration — plan the architecture
+↳ Execution — build it with Claude Code
 
 The goal isn't to feel ready.
 
-The goal is to start before you're ready 🛠️
+The goal is to start before you're ready.
+
+Shipped beats stuck. Every time.
 ─────────────────────────────────────────
 Key Patterns Across LinkedIn Posts
 
@@ -243,18 +225,20 @@ Formatting:
 ↳ Bold Unicode text for headers (𝗛𝗲𝗮𝗱𝗲𝗿)
 
 Recurring Phrases:
-↳ "Here's the thing:"
+↳ "Clarity comes from doing"
 ↳ "99% will... Be the 1%."
-↳ "I learned this the hard way."
+↳ "Via negativa — strip away the noise"
 ↳ "Domain expertise + AI = Unfair advantage"
+↳ "Shipped beats stuck"
+↳ "Show, not tell"
 
 Engagement Hooks:
 ↳ Comment "[keyword]" to get [resource]
-↳ Questions at the end ("What are yours?")
-↳ Soft CTA to Accelerator
+↳ Questions at the end ("What would you build?")
+↳ Soft CTA to 10x With AI / Skool community
 
 Content Types:
 ↳ Insight/Mindset Shift (most common)
 ↳ Tutorial/How-To (step-by-step)
-↳ Personal/Life Advice
-↳ AI Agency Advice
+↳ Founder Journey (leaving corporate, building in public)
+↳ Framework / Actionable (BMAD, DOE, via negativa)

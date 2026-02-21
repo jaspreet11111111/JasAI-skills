@@ -541,7 +541,7 @@ In this mode, complete all phases normally, but in Phase 5.3, save the prompt to
    "Not cartoonish, not hyperreal. Not corporate. Not clipart."
 
 9. TECHNICAL
-   "Footer at the very bottom in small, clean sans-serif: 'Ben Van Sprundel | Founder @ JasAI'"
+   "Footer at the very bottom in small, clean sans-serif: 'Jaspreet Singh | Founder @ JasAI'"
    "Output as a [aspect ratio] image at approximately 2048 pixels wide."
 ```
 
@@ -580,7 +580,7 @@ In this mode, complete all phases normally, but in Phase 5.3, save the prompt to
    "The image should be scannable in 1-2 seconds. Instantly readable. No decoding required."
 
 8. TECHNICAL
-   "Footer: 'Ben Van Sprundel | Founder @ JasAI'"
+   "Footer: 'Jaspreet Singh | Founder @ JasAI'"
    "Output as a [aspect ratio] image at approximately 2048 pixels wide."
 ```
 
@@ -783,7 +783,7 @@ If yes → return to Phase 2 with the next chosen concept.
 
 ### Footer
 
-Always include: `"Ben Van Sprundel | Founder @ JasAI"`
+Always include: `"Jaspreet Singh | Founder @ JasAI"`
 
 ---
 
@@ -827,6 +827,6 @@ Always include: `"Ben Van Sprundel | Founder @ JasAI"`
 9. **Ask "what should the viewer FEEL or KNOW?" not "what should we visualize?"** The first question leads to good output. The second leads to decoration.
 10. **Brand guidelines are for Information Graphics. Discovered style is for Editorial Illustrations.** The JasAI brand system (hard shadows, cream, accents) powers data visuals. For editorial art, the content's emotional register and the user's taste dictate the style.
 11. **Edit, don't regenerate** — Use `edit_image`/`continue_editing` for execution tweaks. Only regenerate with `generate_image` when the concept itself is wrong.
-12. **Always include footer** — "Ben Van Sprundel | Founder @ JasAI"
+12. **Always include footer** — "Jaspreet Singh | Founder @ JasAI"
 13. **If the concept is broken, no amount of editing fixes it.** When the 2-second test fails after generation, go back to Phase 3 — don't iterate on a fundamentally wrong visual.
 14. **NEVER use black backgrounds** — Use #FAF3E3 (light yellow) or content-appropriate warm tones. This applies to ALL output modes.

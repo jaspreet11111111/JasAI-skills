@@ -8,7 +8,7 @@
 ## 1. Brand Philosophy
 
 JasAI is a personal brand built around helping people automate their work and businesses.
-The founder, Ben Van Sprundel, creates content about AI, automation, and working smarter.
+The founder, Jaspreet Singh, creates content about AI, automation, and working smarter.
 Everything we design should reflect that mission: making complex things simple, accessible,
 and actionable.
 
@@ -267,7 +267,7 @@ often faster than they drive. Design accordingly.
 
 Every infographic includes a footer at the very bottom of the design.
 
-**Content:** "Ben Van Sprundel | Founder @ JasAI"
+**Content:** "Jaspreet Singh | Founder @ JasAI"
 
 **Styling:** Small size, clean sans-serif font, left-aligned or centered. The footer
 should be present but unobtrusive. It should never compete with the main content for
